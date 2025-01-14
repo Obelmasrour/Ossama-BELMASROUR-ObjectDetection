@@ -81,6 +81,7 @@ C:\Users\OBL\Desktop\Ossama.BELMASROUR.ObjectDetection\Ossama.BELMASROUR.ObjectD
 C:\Users\OBL\Desktop\Ossama.BELMASROUR.ObjectDetection\Ossama.BELMASROUR.ObjectDetection.WebApi\obj\Debug\net8.0\Ossama.BELMASROUR.ObjectDetection.WebApi.csproj.CoreCompileInputs.cache
 C:\Users\OBL\Desktop\Ossama.BELMASROUR.ObjectDetection\Ossama.BELMASROUR.ObjectDetection.WebApi\obj\Debug\net8.0\Ossama.BELMASROUR.ObjectDetection.WebApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\OBL\Desktop\Ossama.BELMASROUR.ObjectDetection\Ossama.BELMASROUR.ObjectDetection.WebApi\obj\Debug\net8.0\Ossama.BELMASROUR.ObjectDetection.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OBL\Desktop\Ossama.BELMASROUR.ObjectDetection\Ossama.BELMASROUR.ObjectDetection.WebApi\obj\Debug\net8.0\Ossama.BELMASROUR.ObjectDetection.WebApi.sourcelink.json
 C:\Users\OBL\Desktop\Ossama.BELMASROUR.ObjectDetection\Ossama.BELMASROUR.ObjectDetection.WebApi\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\OBL\Desktop\Ossama.BELMASROUR.ObjectDetection\Ossama.BELMASROUR.ObjectDetection.WebApi\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\OBL\Desktop\Ossama.BELMASROUR.ObjectDetection\Ossama.BELMASROUR.ObjectDetection.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.Ossama.BELMASROUR.ObjectDetection.WebApi.Microsoft.AspNetCore.StaticWebAssets.props

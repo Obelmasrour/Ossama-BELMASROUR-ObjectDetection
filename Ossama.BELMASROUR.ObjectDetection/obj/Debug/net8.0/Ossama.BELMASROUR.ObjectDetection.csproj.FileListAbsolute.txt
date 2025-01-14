@@ -1,3 +1,4 @@
+C:\Users\OBL\Desktop\Ossama.BELMASROUR.ObjectDetection\Ossama.BELMASROUR.ObjectDetection\bin\Debug\net8.0\TinyYolo2_model.onnx
 C:\Users\OBL\Desktop\Ossama.BELMASROUR.ObjectDetection\Ossama.BELMASROUR.ObjectDetection\bin\Debug\net8.0\Ossama.BELMASROUR.ObjectDetection.deps.json
 C:\Users\OBL\Desktop\Ossama.BELMASROUR.ObjectDetection\Ossama.BELMASROUR.ObjectDetection\bin\Debug\net8.0\Ossama.BELMASROUR.ObjectDetection.dll
 C:\Users\OBL\Desktop\Ossama.BELMASROUR.ObjectDetection\Ossama.BELMASROUR.ObjectDetection\bin\Debug\net8.0\Ossama.BELMASROUR.ObjectDetection.pdb
@@ -6,8 +7,8 @@ C:\Users\OBL\Desktop\Ossama.BELMASROUR.ObjectDetection\Ossama.BELMASROUR.ObjectD
 C:\Users\OBL\Desktop\Ossama.BELMASROUR.ObjectDetection\Ossama.BELMASROUR.ObjectDetection\obj\Debug\net8.0\Ossama.BELMASROUR.ObjectDetection.AssemblyInfoInputs.cache
 C:\Users\OBL\Desktop\Ossama.BELMASROUR.ObjectDetection\Ossama.BELMASROUR.ObjectDetection\obj\Debug\net8.0\Ossama.BELMASROUR.ObjectDetection.AssemblyInfo.cs
 C:\Users\OBL\Desktop\Ossama.BELMASROUR.ObjectDetection\Ossama.BELMASROUR.ObjectDetection\obj\Debug\net8.0\Ossama.BELMASROUR.ObjectDetection.csproj.CoreCompileInputs.cache
+C:\Users\OBL\Desktop\Ossama.BELMASROUR.ObjectDetection\Ossama.BELMASROUR.ObjectDetection\obj\Debug\net8.0\Ossama.BELMASROUR.ObjectDetection.sourcelink.json
 C:\Users\OBL\Desktop\Ossama.BELMASROUR.ObjectDetection\Ossama.BELMASROUR.ObjectDetection\obj\Debug\net8.0\Ossama.BELMASROUR.ObjectDetection.dll
 C:\Users\OBL\Desktop\Ossama.BELMASROUR.ObjectDetection\Ossama.BELMASROUR.ObjectDetection\obj\Debug\net8.0\refint\Ossama.BELMASROUR.ObjectDetection.dll
 C:\Users\OBL\Desktop\Ossama.BELMASROUR.ObjectDetection\Ossama.BELMASROUR.ObjectDetection\obj\Debug\net8.0\Ossama.BELMASROUR.ObjectDetection.pdb
 C:\Users\OBL\Desktop\Ossama.BELMASROUR.ObjectDetection\Ossama.BELMASROUR.ObjectDetection\obj\Debug\net8.0\ref\Ossama.BELMASROUR.ObjectDetection.dll
-C:\Users\OBL\Desktop\Ossama.BELMASROUR.ObjectDetection\Ossama.BELMASROUR.ObjectDetection\bin\Debug\net8.0\TinyYolo2_model.onnx

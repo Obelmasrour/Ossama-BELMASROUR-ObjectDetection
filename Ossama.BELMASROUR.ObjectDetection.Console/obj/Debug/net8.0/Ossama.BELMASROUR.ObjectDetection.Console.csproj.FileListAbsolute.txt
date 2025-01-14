@@ -72,6 +72,7 @@ C:\Users\OBL\Desktop\Ossama.BELMASROUR.ObjectDetection\Ossama.BELMASROUR.ObjectD
 C:\Users\OBL\Desktop\Ossama.BELMASROUR.ObjectDetection\Ossama.BELMASROUR.ObjectDetection.Console\obj\Debug\net8.0\Ossama.BELMASROUR.ObjectDetection.Console.AssemblyInfoInputs.cache
 C:\Users\OBL\Desktop\Ossama.BELMASROUR.ObjectDetection\Ossama.BELMASROUR.ObjectDetection.Console\obj\Debug\net8.0\Ossama.BELMASROUR.ObjectDetection.Console.AssemblyInfo.cs
 C:\Users\OBL\Desktop\Ossama.BELMASROUR.ObjectDetection\Ossama.BELMASROUR.ObjectDetection.Console\obj\Debug\net8.0\Ossama.BELMASROUR.ObjectDetection.Console.csproj.CoreCompileInputs.cache
+C:\Users\OBL\Desktop\Ossama.BELMASROUR.ObjectDetection\Ossama.BELMASROUR.ObjectDetection.Console\obj\Debug\net8.0\Ossama.BELMASROUR.ObjectDetection.Console.sourcelink.json
 C:\Users\OBL\Desktop\Ossama.BELMASROUR.ObjectDetection\Ossama.BELMASROUR.ObjectDetection.Console\obj\Debug\net8.0\Ossama.B.C969E101.Up2Date
 C:\Users\OBL\Desktop\Ossama.BELMASROUR.ObjectDetection\Ossama.BELMASROUR.ObjectDetection.Console\obj\Debug\net8.0\Ossama.BELMASROUR.ObjectDetection.Console.dll
 C:\Users\OBL\Desktop\Ossama.BELMASROUR.ObjectDetection\Ossama.BELMASROUR.ObjectDetection.Console\obj\Debug\net8.0\refint\Ossama.BELMASROUR.ObjectDetection.Console.dll

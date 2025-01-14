@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ossama.BELMASROUR.ObjectDetection.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ae321eb4149e4a674c56945632ea6a1578912bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ossama.BELMASROUR.ObjectDetection.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ossama.BELMASROUR.ObjectDetection.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
