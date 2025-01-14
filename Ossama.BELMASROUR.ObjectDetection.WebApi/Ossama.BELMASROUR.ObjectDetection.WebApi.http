@@ -1,0 +1,6 @@
+@Ossama.BELMASROUR.ObjectDetection.WebApi_HostAddress = http://localhost:5120
+
+GET {{Ossama.BELMASROUR.ObjectDetection.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

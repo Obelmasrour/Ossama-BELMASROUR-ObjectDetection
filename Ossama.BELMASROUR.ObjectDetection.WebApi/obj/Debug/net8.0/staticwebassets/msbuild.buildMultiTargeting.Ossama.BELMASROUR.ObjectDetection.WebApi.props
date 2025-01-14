@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ossama.BELMASROUR.ObjectDetection.WebApi.props" />
+</Project>
